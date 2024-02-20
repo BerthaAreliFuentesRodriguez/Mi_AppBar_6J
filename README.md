@@ -19,7 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 # Mi diseño usando AppBar y sus caracteristicas
-![image](https://github.com/BerthaAreliFuentesRodriguez/Mi_AppBar_6J/assets/143548448/15862c4d-daa5-4b34-b3bd-7c8f7dce6378)
+![image](https://github.com/BerthaAreliFuentesRodriguez/Mi_AppBar_6J/assets/143548448/57bb7b61-cd6e-476f-afce-ee888c8dfea5)
+
 
 # Link de referencias
 - https://codesinsider.com/flutter-appbar-example-tutorial/
